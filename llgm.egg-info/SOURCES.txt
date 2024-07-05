@@ -1,0 +1,12 @@
+.gitignore
+LICENSE
+README.md
+pyproject.toml
+llgm.egg-info/PKG-INFO
+llgm.egg-info/SOURCES.txt
+llgm.egg-info/dependency_links.txt
+llgm.egg-info/top_level.txt
+notebooks/base_deepseek_setup.ipynb
+notebooks/cf-api.ipynb
+notebooks/codecontests.ipynb
+notebooks/deepseek_finetune_classification.ipynb
