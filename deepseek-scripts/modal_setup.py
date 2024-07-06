@@ -24,7 +24,6 @@ axolotl_image = (
     .pip_install(
         "huggingface_hub==0.23.2",
         "hf-transfer==0.1.5",
-        "wandb==0.16.3",
         "fastapi==0.110.0",
         "pydantic==2.6.3",
     )

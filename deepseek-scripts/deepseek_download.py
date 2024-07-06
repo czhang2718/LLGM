@@ -61,8 +61,6 @@ def get_classification_model():
         torch_dtype=torch.bfloat16
     )
 
-    print(model_classify)
-
     return config, model_classify, tokenizer
 
 @app.function(image=axolotl_image, timeout=30 * MINUTES, volumes=VOLUME_CONFIG)
