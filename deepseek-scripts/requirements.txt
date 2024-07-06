@@ -1,0 +1,8 @@
+transformers
+torch
+huggingface_hub
+flash_attn
+accelerate
+datasets
+evaluate
+numpy
