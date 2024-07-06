@@ -46,7 +46,7 @@ def train():
     training_args = TrainingArguments(
         output_dir="/test_trainer", 
         eval_strategy="epoch",
-        auto_find_batchsize=True
+        auto_find_batch_size=True
     )
 
     trainer = Trainer(
