@@ -2,6 +2,8 @@
 LICENSE
 README.md
 pyproject.toml
+requirements.txt
+bin/micromamba
 llgm.egg-info/PKG-INFO
 llgm.egg-info/SOURCES.txt
 llgm.egg-info/dependency_links.txt

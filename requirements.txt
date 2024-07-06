@@ -9,3 +9,4 @@ attrdict
 datasets
 evaluate
 huggingface_hub
+openai
